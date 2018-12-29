@@ -1,7 +1,7 @@
-## gettingandcleaningdata
+# gettingandcleaningdata
 Getting and Cleaning Data Course Project
 This repository contains files from "Getting and Cleaning Data" course project:
-# run_analysis.R:
+## run_analysis.R:
 Contains a script in R programming language, that does the following:
 - checks if there is a working directory ("Getting and Cleaning Data/"), and if there is not one, it creates that;
 - checks if there is the zipfile (from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip), and if there is not, it downloads and unzips that;
